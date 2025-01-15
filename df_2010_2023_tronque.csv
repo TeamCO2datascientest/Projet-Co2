@@ -1,0 +1,1000 @@
+ANNEE,MARQUE,ENERGIE,PUISS_REEL(kW),CO2(g/km),MASSE_ORDMA_MIN(kg),MASSE_ORDMA_MAX(kg),CARROSSERIE,Groupe_auto,MASSE_MOYENNE
+2010,ALFA ROMEO,Essence,77.0,136.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,ALFA ROMEO,Essence,122.0,207.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,ALFA ROMEO,Essence,122.0,207.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,ALFA ROMEO,Essence,99.0,129.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,ALFA ROMEO,Essence,331.0,379.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,ALFA ROMEO,Essence,103.0,202.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,ALFA ROMEO,Essence,103.0,202.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,ALFA ROMEO,Essence,77.0,196.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,ALFA ROMEO,Essence,88.0,194.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,MERCEDES,Essence,386.0,295.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,295.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,295.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,295.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,299.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,299.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,299.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,299.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,299.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,299.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,299.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,299.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,295.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,295.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,295.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,386.0,295.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,336.0,319.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,373.0,326.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,358.0,319.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,336.0,326.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,373.0,331.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,358.0,326.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,MERCEDES,Essence,420.0,308.0,0.0,0.0,BERLINE,Mercedes-Benz Group,0.0
+2010,AUDI,Essence,155.0,154.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,175.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,152.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,175.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,152.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,166.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,216.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,170.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,166.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,170.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,77.0,132.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,164.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,216.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,77.0,132.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,164.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,164.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,164.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,166.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,164.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,166.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,156.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,216.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,192.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,156.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,215.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,216.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,92.0,127.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,176.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,216.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,152.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,92.0,127.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,176.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,213.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,156.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,214.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,152.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,92.0,132.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,152.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,88.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,213.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,214.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,92.0,132.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,88.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,179.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,193.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,92.0,134.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,88.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,179.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,193.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,198.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,92.0,134.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,88.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,214.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,154.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,179.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,198.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,154.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,214.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,156.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,152.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,156.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,179.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,214.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,199.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,152.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,171.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,179.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,260.0,256.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,260.0,256.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,199.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,199.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,88.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,88.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,152.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,153.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,171.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,188.0,195.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,188.0,195.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,224.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,260.0,256.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,260.0,288.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,225.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,88.0,164.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,88.0,164.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,92.0,124.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,153.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,173.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,147.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,188.0,199.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,224.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,154.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,260.0,288.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,225.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,92.0,124.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,173.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,188.0,199.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,229.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,260.0,288.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,189.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,229.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,154.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,189.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,192.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,164.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,184.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,164.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,197.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,192.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,184.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,192.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,176.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,176.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,197.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,154.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,192.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,195.0,215.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,174.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,155.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,172.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,132.0,167.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,149.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,273.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,273.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,273.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,273.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,273.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,273.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,77.0,123.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,77.0,123.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,77.0,123.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,77.0,123.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,245.0,219.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,AUDI,Essence,118.0,169.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BMW,Essence,160.0,203.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,198.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,204.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,192.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,235.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,170.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,166.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,235.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,178.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,153.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,153.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,205.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,167.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,232.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,155.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,155.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,204.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,300.0,263.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,179.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,90.0,143.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,270.0,299.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,182.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,90.0,154.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,270.0,258.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,186.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,182.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,140.0,186.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,140.0,186.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,190.0,199.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,191.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,105.0,147.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,190.0,199.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,190.0,219.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,187.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,105.0,159.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,105.0,143.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,188.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,184.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,186.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,186.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,162.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,270.0,279.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,270.0,249.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,196.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,164.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,190.0,199.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,105.0,143.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,196.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,190.0,199.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,105.0,154.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,270.0,260.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,198.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,149.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,164.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,190.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,270.0,267.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,194.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,232.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,222.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,209.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,270.0,254.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,223.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,259.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,373.0,344.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,184.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,193.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,195.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,205.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,240.0,232.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,199.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,300.0,299.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,195.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,182.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,300.0,266.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,176.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,185.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,173.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,220.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,150.0,177.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,373.0,348.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,175.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,221.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,105.0,153.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,224.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,150.0,178.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,105.0,163.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,225.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,400.0,303.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,196.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,408.0,325.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,154.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,159.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,159.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,190.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,164.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,240.0,235.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,300.0,243.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,408.0,325.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,373.0,342.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,190.0,182.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,205.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,190.0,178.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,205.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,300.0,266.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,247.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,261.0,289.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,196.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,218.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,168.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,210.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,153.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,155.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,300.0,278.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,300.0,278.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,373.0,352.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,159.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,168.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,190.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,175.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,169.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,190.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,193.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,188.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,400.0,299.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,195.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,192.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,177.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,191.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,190.0,199.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,309.0,290.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,190.0,195.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,90.0,146.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,309.0,263.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,105.0,146.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,105.0,155.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,219.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,309.0,297.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,90.0,143.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,90.0,154.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,309.0,269.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,168.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,174.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,309.0,290.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,309.0,263.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,188.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,192.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,205.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,110.0,191.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,110.0,195.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,148.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,125.0,159.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,196.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,150.0,199.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,191.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,225.0,202.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,150.0,192.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,193.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,200.0,173.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BMW,Essence,160.0,217.0,0.0,0.0,BERLINE,Groupe BMW,0.0
+2010,BENTLEY,Essence,448.7,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,463.0,388.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,463.0,388.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,463.0,388.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,463.0,388.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,412.0,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,412.0,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,448.7,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,448.7,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,395.0,465.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,395.0,465.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,336.0,465.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,336.0,465.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,373.0,465.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,373.0,465.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,412.0,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,412.0,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,412.0,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,412.0,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,448.7,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,448.7,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,448.7,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,448.7,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,412.0,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,412.0,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,BENTLEY,Essence,448.7,396.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,CHEVROLET,Essence,74.0,140.0,0.0,0.0,BERLINE,General Motors,0.0
+2010,CHEVROLET,Essence,74.0,152.0,0.0,0.0,BERLINE,General Motors,0.0
+2010,CHEVROLET,Essence,74.0,140.0,0.0,0.0,BERLINE,General Motors,0.0
+2010,CHEVROLET,Essence,50.0,119.0,0.0,0.0,BERLINE,General Motors,0.0
+2010,CHEVROLET,Essence,62.0,130.0,0.0,0.0,BERLINE,General Motors,0.0
+2010,CHEVROLET,Essence,62.0,130.0,0.0,0.0,BERLINE,General Motors,0.0
+2010,CHEVROLET,Essence,60.0,119.0,0.0,0.0,BERLINE,General Motors,0.0
+2010,CITROEN,Essence,80.0,199.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,103.0,183.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,88.0,159.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,88.0,158.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,88.0,159.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,88.0,159.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,70.0,159.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,50.0,106.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,70.0,157.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,50.0,107.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,54.0,140.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,70.0,134.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,110.0,164.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,110.0,164.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,54.0,160.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,110.0,179.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,80.0,160.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,115.0,179.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,88.0,160.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,110.0,179.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,115.0,179.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,92.0,192.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,65.0,153.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,155.0,245.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,66.0,195.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,80.0,195.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,88.0,177.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,88.0,136.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,65.0,153.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,88.0,174.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,110.0,173.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,110.0,176.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,70.0,134.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,92.0,188.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,44.1,140.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,110.0,176.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,72.0,134.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,80.0,172.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,155.0,250.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,44.1,137.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,44.1,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,115.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,44.1,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,50.0,106.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,88.0,136.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,CITROEN,Essence,50.0,107.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,DACIA,Essence,55.0,139.0,0.0,0.0,BERLINE,Groupe Renault-Nissan-Mitsubishi,0.0
+2010,DACIA,Essence,64.0,165.0,0.0,0.0,BERLINE,Groupe Renault-Nissan-Mitsubishi,0.0
+2010,DACIA,Essence,77.0,185.0,0.0,0.0,BERLINE,Groupe Renault-Nissan-Mitsubishi,0.0
+2010,DACIA,Essence,55.0,179.0,0.0,0.0,BERLINE,Groupe Renault-Nissan-Mitsubishi,0.0
+2010,DACIA,Essence,77.0,177.0,0.0,0.0,BERLINE,Groupe Renault-Nissan-Mitsubishi,0.0
+2010,DAIHATSU,Essence,76.0,176.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,64.0,140.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,51.0,118.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,67.0,137.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,67.0,151.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,67.0,148.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,67.0,159.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,76.0,145.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,76.0,157.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,77.0,173.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,77.0,178.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,77.0,179.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,77.0,181.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,51.0,104.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,51.0,129.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,67.0,156.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DAIHATSU,Essence,76.0,169.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,DIJEAU CARROSSIER,Essence,78.0,191.0,0.0,0.0,BERLINE,DIJEAU CARROSSIER,0.0
+2010,DIJEAU CARROSSIER,Essence,78.0,200.0,0.0,0.0,BERLINE,DIJEAU CARROSSIER,0.0
+2010,DIJEAU CARROSSIER,Essence,78.0,191.0,0.0,0.0,BERLINE,DIJEAU CARROSSIER,0.0
+2010,DIJEAU CARROSSIER,Essence,64.0,192.0,0.0,0.0,BERLINE,DIJEAU CARROSSIER,0.0
+2010,DIJEAU CARROSSIER,Essence,64.0,190.0,0.0,0.0,BERLINE,DIJEAU CARROSSIER,0.0
+2010,DIJEAU CARROSSIER,Essence,78.0,192.0,0.0,0.0,BERLINE,DIJEAU CARROSSIER,0.0
+2010,DIJEAU CARROSSIER,Essence,78.0,191.0,0.0,0.0,BERLINE,DIJEAU CARROSSIER,0.0
+2010,FIAT,Essence,57.0,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,119.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,119.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,57.0,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,70.0,166.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,70.0,166.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,40.0,119.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,66.0,156.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,154.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,165.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,114.0,162.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,57.0,134.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,70.0,142.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,127.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,154.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,77.0,134.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,143.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,114.0,159.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,70.0,142.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,127.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,143.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,132.0,162.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,99.0,129.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,149.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,132.0,159.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,57.0,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,114.0,162.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,99.0,129.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,48.0,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,114.0,159.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,156.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,48.0,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,48.0,135.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,156.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,70.0,166.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,57.0,134.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,57.0,134.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,57.0,130.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,54.0,165.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,77.0,134.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,57.0,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,88.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,119.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,54.0,165.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,40.0,132.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,66.0,146.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,57.0,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,99.0,129.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,40.0,119.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,40.0,119.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,73.5,154.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,48.0,135.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,70.0,142.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,110.0,167.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,125.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,70.0,142.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,125.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,73.5,154.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,110.0,165.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,133.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,51.0,113.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,110.0,165.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,133.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,51.0,113.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,48.0,139.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,48.0,135.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,48.0,135.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FIAT,Essence,44.0,155.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,FORD,Essence,147.0,244.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,147.0,234.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,184.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,169.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,189.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,169.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,85.0,157.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,189.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,169.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,164.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,189.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,169.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,159.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,179.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,88.0,139.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,88.0,139.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,159.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,189.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,184.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,169.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,59.0,155.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,159.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,60.0,133.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,199.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,59.0,155.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,184.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,60.0,133.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,179.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,59.0,155.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,60.0,133.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,60.0,133.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,85.0,157.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,71.0,133.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,71.0,154.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,85.0,157.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,71.0,133.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,166.0,224.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,85.0,157.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,71.0,154.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,44.0,128.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,166.0,224.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,44.0,128.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,44.0,127.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,44.0,127.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,189.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,224.0,225.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,107.0,171.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,157.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,179.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,162.0,224.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,92.0,170.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,92.0,170.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,92.0,170.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,118.0,235.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,118.0,232.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,81.0,170.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,81.0,170.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,81.0,170.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,118.0,223.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,118.0,223.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,118.0,223.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,162.0,222.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,162.0,222.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,59.0,154.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,162.0,222.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,59.0,154.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,59.0,149.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,FORD,Essence,74.0,157.0,0.0,0.0,BERLINE,Ford Motor Company,0.0
+2010,HYUNDAI,Essence,80.2,135.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,HONDA,Essence,103.0,155.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,110.0,193.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,103.0,169.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,84.0,117.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,66.0,125.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,103.0,152.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,73.0,128.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,115.0,168.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,103.0,155.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,73.0,130.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,148.0,215.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,73.0,125.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,66.0,125.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,73.0,128.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,73.0,125.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,73.0,135.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,115.0,171.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,148.0,209.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,73.0,135.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,148.0,209.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,73.0,132.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,148.0,202.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,70.0,109.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,148.0,202.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,HONDA,Essence,110.0,190.0,0.0,0.0,BERLINE,HONDA,0.0
+2010,JAGUAR,Essence,375.0,292.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,375.0,292.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,283.0,264.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,283.0,264.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,175.0,249.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,283.0,264.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,375.0,292.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,283.0,264.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,283.0,264.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,375.0,289.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JAGUAR,Essence,375.0,289.0,0.0,0.0,BERLINE,Jaguar Land Rover (Tata Motors),0.0
+2010,JEEP,Essence,313.0,380.0,0.0,0.0,BERLINE,Stellantis,0.0
+2010,TOYOTA,Essence,50.0,107.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,50.0,106.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,50.0,106.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,97.0,158.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,74.0,139.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,97.0,158.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,74.0,135.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,50.0,107.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,50.0,106.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,50.0,106.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,50.0,99.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,73.0,135.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,97.0,158.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,50.0,110.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,97.0,153.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,97.0,158.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,97.0,154.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,74.0,129.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,116.0,178.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,74.0,139.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,108.0,164.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,116.0,178.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,74.0,135.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,74.0,139.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,116.0,177.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,74.0,136.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,73.0,135.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,97.0,153.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,97.0,153.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,73.0,136.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,72.0,113.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,TOYOTA,Essence,72.0,120.0,0.0,0.0,BERLINE,Toyota Motor Corporation,0.0
+2010,KIA,Essence,92.7,153.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,91.9,146.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,92.7,158.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,91.9,151.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,92.7,158.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,66.2,147.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,66.2,147.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,66.2,136.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,91.9,151.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,66.2,136.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,91.9,164.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,104.0,190.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,104.0,190.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,45.6,114.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,71.3,139.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,66.2,139.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,104.0,190.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,66.2,139.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,104.0,190.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,71.3,139.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,KIA,Essence,91.9,146.0,0.0,0.0,BERLINE,Hyundai Motor Group,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,493.0,480.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,493.0,480.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,493.0,480.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,405.0,341.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,405.0,354.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,341.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,354.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,405.0,315.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,405.0,330.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,315.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,330.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,405.0,351.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,405.0,354.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,351.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,405.0,325.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,354.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,405.0,330.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,325.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,330.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,419.0,351.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,336.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,419.0,325.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,310.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,419.0,351.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,336.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,419.0,325.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,426.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,382.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,412.0,310.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,390.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,478.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,420.0,500.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,471.0,495.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,375.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,400.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
+2010,LAMBORGHINI,Essence,368.0,380.0,0.0,0.0,BERLINE,Groupe Volkswagen,0.0
