@@ -7,6 +7,11 @@ import random
 
 df_france_2010_2023 = pd.read_csv("df_2010_2023_tronque.csv")
 
+st.set_page_config(
+    page_title=config.TITLE,
+    page_icon="https://datascientest.com/wp-content/uploads/2020/03/cropped-favicon-datascientest-1-32x32.png",
+)
+
 
 st.sidebar.title("Sommaire")
 pages=["Introduction", "Présentation et pré-traitement des données","Analyse et data visualisation", "Modèles ML et prédictions", "Calcul des pénalités","Conclusions et limites du projet"]
