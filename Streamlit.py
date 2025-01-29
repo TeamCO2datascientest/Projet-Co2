@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import random
 
 
-df_france_2010_2023 = pd.read_csv("df_france_2010_2023.csv")
+df_france_2010_2023 = pd.read_csv("df_2010_2023_tronque.csv")
 
 
 st.sidebar.title("Sommaire")
