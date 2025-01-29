@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd 
 
 df_france_2010_2023 = pd.read_csv("df_2010_2023_tronque.csv")
 
