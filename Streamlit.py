@@ -14,7 +14,7 @@ page=st.sidebar.radio("Aller vers", pages)
 
 if page == pages[0] : 
   st.title("Introduction")
-  st.subheader("1.Qu'est que le CO2 et les gas à effet de serre?")
+  st.subheader("1.Qu'est que le CO2 et les gaz à effet de serre?")
   st.image("Introduction image 1 et 2.jpg")
   st.subheader("2.Prise de conscience des enjeux climatiques")
   st.image("Introduction image 3.jpg")
