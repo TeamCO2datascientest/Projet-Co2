@@ -20,7 +20,7 @@ if page == pages[0] :
   st.image("Introduction image 3.jpg")
   st.subheader("3.L'impact des risques naturels")
   st.image("Introduction image 4.jpg")
-  st.subheader("4.Objectif de limité la hausse de 2 degrés Celsius d'ici 2100")
+  st.subheader("4.Objectif de limiter la hausse à 2 degrès Celsius d'ici 2100")
   st.image("Introduction image 5.jpg")
   st.subheader("5.Les 10 pays les plus émetteurs de CO2")
   st.image("Introduction image 6.jpg")
