@@ -1,9 +1,4 @@
 import streamlit as st
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import random
-
 
 df_france_2010_2023 = pd.read_csv("df_2010_2023_tronque.csv")
 
